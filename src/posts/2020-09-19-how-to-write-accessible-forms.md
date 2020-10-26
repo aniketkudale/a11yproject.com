@@ -6,13 +6,13 @@ category: How-to
 author: Hamsa Harcourt
 date: 2020-09-16
 further_reading:
-  - title: Error Messages
-    url: https://www.w3.org/WAI/EO/Drafts/tutorials/forms/error-messages/
-    source:  Web accessibility tutorials
+  - title: User Notifications
+    url: https://www.w3.org/WAI/tutorials/forms/notifications/
+    source:  WAI Web Accessibility Tutorials
     year: 2014
   - title: Provide helpful error messages
     url: https://accessibility.huit.harvard.edu/provide-helpful-error-messages
-    source:  Havard university
+    source:  Harvard university
     year: 2014
   - title: HTML label element reference
     url: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
